@@ -1,1 +1,1 @@
-# Code and files related to Imperial's student investment fund
+# Code and files prepared by Amin Izadyar related to Imperial's student investment fund

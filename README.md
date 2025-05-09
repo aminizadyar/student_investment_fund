@@ -1,1 +1,1 @@
-# student_investment_fund
+# Code and files related to Imperial's student investment fund
